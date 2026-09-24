@@ -1,0 +1,29 @@
+# Dependency & environment directories
+node_modules/
+
+# Local temporary scratch scripts
+apply_*.mjs
+check_*.mjs
+find_*.mjs
+show_*.mjs
+test_*.mjs
+fetch_*.mjs
+fix_*.mjs
+verify_*.mjs
+get_*.mjs
+karachi_city_life.mjs
+download_all.mjs
+discovered_assets.json
+audit_zero.mjs
+discover.mjs
+inspect_details.mjs
+make_logo.mjs
+make_maju_icon.mjs
+search_assets.mjs
+update_stage4_text.mjs
+world_overview.png
+
+# OS files
+Thumbs.db
+.DS_Store
+*.log
