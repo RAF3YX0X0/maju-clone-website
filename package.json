@@ -2,7 +2,8 @@
   "name": "maju-clone-website",
   "version": "1.0.0",
   "type": "module",
+  "main": "server.js",
   "scripts": {
-    "start": "node local_server.mjs"
+    "start": "node server.js"
   }
 }

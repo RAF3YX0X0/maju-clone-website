@@ -1,5 +1,13 @@
 {
   "cleanUrls": true,
+  "functions": {
+    "server.js": {
+      "includeFiles": "assets/**"
+    },
+    "index.js": {
+      "includeFiles": "assets/**"
+    }
+  },
   "headers": [
     {
       "source": "/(.*)",

@@ -11,7 +11,7 @@ fetch_*.mjs
 fix_*.mjs
 verify_*.mjs
 get_*.mjs
-karachi_city_life.mjs
+karachi_*.mjs
 download_all.mjs
 discovered_assets.json
 audit_zero.mjs
