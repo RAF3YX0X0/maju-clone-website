@@ -1,0 +1,4 @@
+server.mjs
+scripts/
+*.temp.js
+.git
